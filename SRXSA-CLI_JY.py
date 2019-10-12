@@ -7,7 +7,7 @@ from optparse import OptionParser
 
 ##########################################################
 ##########################################################
-# Written by Tim Eberhard
+# Written by Tim Eberhard, Forked by James Yu
 # For bugs or feature additions please contact:
 # xmin0s@gmail.com
 #
