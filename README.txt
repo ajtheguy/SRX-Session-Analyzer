@@ -1,10 +1,10 @@
 ##########################################################
 ##########################################################
-# Written by Tim Eberhard
+# Written by Tim Eberhard, Forked by James Yu
 # Requires Python 3.0 or above
 # For bugs or feature additions please contact:
 # xmin0s@gmail.com
-# If you managed to get the source code for this, please do not steal/borrow any of it without my permission
+# If you managed to get the source code for this, please do not steal/borrow any of it without my permission// Tim had put the project on # GitHub, this no longer applied.
 # I spent a lot of time on the filters and they are mine. Please get permission from me to reuse it or change.
 #
 #To do:
@@ -14,6 +14,7 @@
 #
 #
 #History:
+#10/11/19 - Updated CLI to 1.0 Gamma. Fixed option and linebreaker print bugs.
 #12/08/11 - Version 1.5 - Added the first set of plugins for SRX Session Analyzer. These plugins can analyze traffic log files (syslog or locally logged)
 #             and give you the ability to parse for top talkers by various data points. Needs additional testing as it's only been tested on 11.2 syslog output.
 #12/07/11 - Version 1.3 - Added some basic GUI items, file, edit, plugins and help. Fixed a couple of minor bugs.
